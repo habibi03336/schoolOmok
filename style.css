@@ -1,0 +1,38 @@
+body{
+    margin: 10px;
+}
+
+.board {
+    background-color: burlywood;
+    display: flex;
+    flex-direction: column;
+    width: 450px;
+    height: 450px;
+}
+
+.row {
+    display: flex;
+    height: 30px;
+}
+
+.control {
+    text-align: center;
+    border: 5px solid black;
+    margin-top: 30px;
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+.go {
+    text-align: center;
+    width:28px;
+    height: 28px;
+}
+
+.point {
+    height: 30px;
+    width: 30px;
+    border: 1px solid black;
+}
