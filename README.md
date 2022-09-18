@@ -1,4 +1,5 @@
 # School Omok
+## [Give it a try!](https://habibi03336.github.io/schoolOmok/)
 
 ### 1️⃣ Omok
 오목의 내부 로직을 관리하는 역할  
